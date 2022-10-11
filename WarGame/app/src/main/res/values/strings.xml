@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WarGame</string>
+    <string name="newGameButton">START NEW GAME</string>
+</resources>
